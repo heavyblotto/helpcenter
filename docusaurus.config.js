@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Help Center',
-  tagline: 'Help Center',
+  title: 'Rumble Video Help',
+  tagline: 'Your guide to using Rumble Video',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -138,7 +138,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()}`,
       },
       prism: {
         theme: prismThemes.github,
