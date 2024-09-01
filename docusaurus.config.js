@@ -145,6 +145,18 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        hashed: true,
+        // For Docs using Chinese, The `language` is recommended to set to:
+        // language: ["en", "zh"],
+      }),
+    ],
+  ],
 };
 
 export default config;
