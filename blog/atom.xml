@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heavyblotto.github.io/helpcenter/blog</id>
-    <title>Rumble Video Help Blog</title>
+    <title>Rumble Help Center Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://heavyblotto.github.io/helpcenter/blog"/>
-    <subtitle>Rumble Video Help Blog</subtitle>
+    <subtitle>Rumble Help Center Blog</subtitle>
     <icon>https://heavyblotto.github.io/helpcenter/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
