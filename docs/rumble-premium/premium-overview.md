@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Overview
+# Get Ad Free Content & More
 
 Rumble Premium is a subscription service that allows you to access additional features and content on Rumble.
 

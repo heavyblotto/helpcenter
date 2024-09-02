@@ -89,8 +89,8 @@ const config = {
           },
           // Add the new item here
           {
-            to: '/docs/creators/creators-overview',
-            label: 'Creator Help',
+            to: '/docs/find-and-watch-content/watch-videos',
+            label: 'Find & Watch Content',
             position: 'left',
           },
           {
@@ -98,7 +98,12 @@ const config = {
             label: 'Rumble Premium',
             position: 'left',
           },
-          {to: '/blog', label: 'Help Blog', position: 'left'},
+          {
+            to: '/docs/creators/creators-overview',
+            label: 'Creator Help',
+            position: 'left',
+          },
+          // {to: '/blog', label: 'Help Blog', position: 'left'},
           {
             href: 'https://github.com/heavyblotto/helpcenter/tree/main/',
             label: 'GitHub',
