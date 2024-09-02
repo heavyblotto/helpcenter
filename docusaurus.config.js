@@ -85,9 +85,20 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Get Started',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // Add the new item here
+          {
+            to: '/docs/creators/creators-overview',
+            label: 'Creator Help',
+            position: 'left',
+          },
+          {
+            to: '/docs/rumble-premium/premium-overview',
+            label: 'Rumble Premium',
+            position: 'left',
+          },
+          {to: '/blog', label: 'Help Blog', position: 'left'},
           {
             href: 'https://github.com/heavyblotto/helpcenter/tree/main/',
             label: 'GitHub',
@@ -102,7 +113,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Get Started',
                 to: '/docs/intro',
               },
             ],
@@ -143,6 +154,11 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
     }),
 
