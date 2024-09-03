@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Rumble Help Center',
-  tagline: 'Tips, tuturials, and how-to guides for Rumble Video',
+  tagline: 'Tips, tutorials, and how-to guides for Rumble Video',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -104,11 +104,11 @@ const config = {
             position: 'left',
           },
           // {to: '/blog', label: 'Help Blog', position: 'left'},
-          {
-            href: 'https://github.com/heavyblotto/helpcenter/tree/main/',
-            label: 'GitHub',
-            position: 'right',
-          },
+//          {
+//            href: 'https://github.com/heavyblotto/helpcenter/tree/main/',
+//            label: 'GitHub',
+//            position: 'right',
+//          },
         ],
       },
       footer: {
@@ -121,22 +121,38 @@ const config = {
                 label: 'Get Started',
                 to: '/docs/intro',
               },
+              {
+                label: 'Find & Watch Content',
+                to: '/docs/find-and-watch-content/watch-videos',
+              },
+              {
+                label: 'Rumble Premium',
+                to: '/docs/rumble-premium/premium-overview',
+              },
+              {
+                label: 'Creator Help',
+                to: '/docs/creators/creators-overview',
+              },
             ],
           },
           {
-            title: 'Community',
+            title: 'Rumble Links',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Rumble',
+                href: 'https://rumble.com',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Support',
+                href: 'https://rumblefaq.groovehq.com/help',
+              },
+              {
+                label: 'Truth Social',
+                href: 'https://truthsocial.com/@rumble',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://x.com/rumblevideo',
               },
             ],
           },
@@ -144,13 +160,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'Help Blog',
                 to: '/blog',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/heavyblotto/helpcenter/tree/main/',
-              },
+//              {
+//                label: 'GitHub',
+//                href: 'https://github.com/heavyblotto/helpcenter/tree/main/',
+//              },
             ],
           },
         ],
