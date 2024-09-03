@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Rumble Help Center',
-  tagline: 'Learn how to get the most out of Rumble',
+  tagline: 'Tips, tutorials, and how-to guides for Rumble Video',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
