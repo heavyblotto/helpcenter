@@ -6,12 +6,16 @@ sidebar_position: 1
 
 Rumble Premium is a subscription service that allows you to access additional features and content on Rumble.
 
-## Features
+## Benefits
 
-- HD Videos
-- No Ads
-- Offline Viewing
-- Download Videos
+- **Ad-Free Viewing**
+  Break free from ad breaks! Watch your favorite videos or live streams without advertisements.
+
+- **Premium Content**
+  Gain access to upcoming exclusive Premium content.
+
+- **Verified Badge and Other Benefits**
+  Verified badge and other benefits including extended creator tools with more to come.
 
 ## Pricing
 
@@ -20,18 +24,12 @@ Rumble Premium is available in two subscription plans:
 - Monthly Subscription: $9.99/month
 - Annual Subscription: $79.99/year
 
-## Benefits
 
-- Access to a wide range of premium videos
-- Ability to download videos for offline viewing
-- No ads while watching videos
-- Ability to download videos for offline viewing
-- No ads while watching videos
 
 ## How to Subscribe
 
-1. Go to the Rumble website and click on the "Premium" button.
-2. Select the subscription plan that you want to subscribe to.
+1. Go to the Rumble website and select **Go Ad Free**.
+2. Select **Subscribe Now**.
 3. Enter your payment information.
 4. Confirm your subscription.
 
